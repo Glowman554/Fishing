@@ -1,0 +1,5 @@
+name: Fishing
+version: ${project.version}
+main: de.glowman554.fishing.FishingMain
+api-version: 1.19
+author: Glowman554
